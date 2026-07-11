@@ -10,6 +10,8 @@ This section contains the notes for the information gathering phase of an assess
 - [User Information and Targeting](user%20information%20is%20critical.md)
 - [Importance of Information Gathering](importance%20of%20information%20gathering.md)
 - [Assessment Labs](assessment%20labs.md)
+ - [Passive Information Gathering Index](passive%20information%20gathering/README.md)
+ - [Active Information Gathering Index](active%20information%20gathering/README.md)
 
 ## Passive Information Gathering
 

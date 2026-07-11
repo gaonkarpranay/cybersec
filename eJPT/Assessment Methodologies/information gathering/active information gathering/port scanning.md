@@ -4,6 +4,7 @@ default scan for 1024 ports
 
 consider all host as up ,skip host discvery
 
+
 ![8d263036c107b4ec77e6cde4d7934828.png](../../../images/8d263036c107b4ec77e6cde4d7934828.png)
 
 fast scan
