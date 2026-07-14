@@ -1,6 +1,6 @@
 ### every packet in every protocol has this structure
 
-![d4e9ecd60fce38ddeb090351c5c96721.png](../../../../_resources/d4e9ecd60fce38ddeb090351c5c96721.png)
+![d4e9ecd60fce38ddeb090351c5c96721.png](../../../images/d4e9ecd60fce38ddeb090351c5c96721.png)
 
 &nbsp;
 
@@ -18,4 +18,4 @@ generalised view of packet
 
 detailed description about OSI layer
 
-![4308d402490b3dfe84ef36fb6e22272a.png](../../../../_resources/4308d402490b3dfe84ef36fb6e22272a.png)
+![4308d402490b3dfe84ef36fb6e22272a.png](../../../images/4308d402490b3dfe84ef36fb6e22272a.png)

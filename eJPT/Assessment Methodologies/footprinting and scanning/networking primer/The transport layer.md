@@ -83,7 +83,7 @@ UDP is a **connectionless** protocol designed for **fast data transmission**.
 
 &nbsp;
 
-![110b2c0e0631a61bca197a2b5c8f9240.png](../../../../_resources/110b2c0e0631a61bca197a2b5c8f9240.png)
+![110b2c0e0631a61bca197a2b5c8f9240.png](../../../images/110b2c0e0631a61bca197a2b5c8f9240.png)
 
 ### Step 1: SYN (Synchronize)
 
@@ -122,7 +122,7 @@ After this step, both the client and server can exchange data reliably.
 
 # TCP HEADER FIELDS
 
-![d4c7b398abd3461f5e1dcde47dd8d63d.png](../../../../_resources/d4c7b398abd3461f5e1dcde47dd8d63d.png)
+![d4c7b398abd3461f5e1dcde47dd8d63d.png](../../../images/d4c7b398abd3461f5e1dcde47dd8d63d.png)
 
 # TCP Port Numbers
 

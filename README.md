@@ -7,27 +7,20 @@ This repository contains my study notes for eJPT preparation, organized by topic
 ```text
 cybersec/
 └── eJPT/
-    └── Assessment Methologies/
-        └── information gathering/
-            ├── information gathering summary.md
-            ├── scoping.md
-            ├── assessment labs.md
-            ├── active vs passive reconnaissance.md
-            ├── user information is critical.md
-            ├── importance of information gathering.md
-            ├── active information gathering/
-            │   ├── host discovery.md
-            │   ├── DNS zone transfer.md
-            │   └── port scanning.md
-            └── passive information gathering/
-                ├── DNS recon.md
-                ├── Google dorking.md
-                ├── recon using netcraft.md
-                ├── subdomain enumeration using sublister.md
-                ├── theHarvester.md
-                ├── WAF detection.md
-                ├── website host and footprinting.md
-                └── whois lookup.md
+    └── Assessment Methodologies/
+        ├── information gathering/
+        │   ├── information gathering summary.md
+        │   ├── scoping.md
+        │   ├── assessment labs.md
+        │   ├── active vs passive reconnaissance.md
+        │   ├── importance of information gathering.md
+        │   ├── active information gathering/
+        │   └── passive information gathering/
+        └── footprinting and scanning/
+            ├── networking primer/
+            ├── host discovery/
+            ├── Port scanning/
+            └── Evasion and scan performance/
 ```
 
 ## How to Use This Repo
@@ -43,6 +36,10 @@ cybersec/
 - Use one summary file per major section.
 - Keep markdown short, practical, and direct.
 - Prefer diagrams, examples, and command snippets where useful.
+
+## Image Handling
+
+- Use the shared `cybersec/eJPT/images` folder for markdown image references.
 
 ## Notes
 

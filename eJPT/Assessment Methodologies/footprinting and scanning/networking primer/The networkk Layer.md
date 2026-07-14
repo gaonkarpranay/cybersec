@@ -3,7 +3,7 @@
 - the network layer is responsible for logical addressing,packet forwarding and routing across devices.
 - its primary goal is to determine the optimal path from source to destination .
 
-![92e1515beefd1a14d7f96b222f9a8a68.png](../../../../_resources/92e1515beefd1a14d7f96b222f9a8a68.png)
+![92e1515beefd1a14d7f96b222f9a8a68.png](../../../images/92e1515beefd1a14d7f96b222f9a8a68.png)
 
 ### various protocols comes under network layer and on of the important protocol is IP protocol.
 
@@ -177,7 +177,7 @@ This eliminates the need to manually configure every device.
 
 # IP header format
 
-![6c8461f85c6800a0b127a5b2c7b3109a.png](../../../../_resources/6c8461f85c6800a0b127a5b2c7b3109a.png)
+![6c8461f85c6800a0b127a5b2c7b3109a.png](../../../images/6c8461f85c6800a0b127a5b2c7b3109a.png)
 
 | **Field** | **Summary** |
 | --- | --- |
@@ -192,15 +192,15 @@ This eliminates the need to manually configure every device.
 | **Source IP Address (32 bits)** | IP address of the **sender**. |
 | **Destination IP Address (32 bits)** | IP address of the **receiver**. |
 
-![0c4599cffda5254767e260bae0afec47.png](../../../../_resources/0c4599cffda5254767e260bae0afec47.png)
+![0c4599cffda5254767e260bae0afec47.png](../../../images/0c4599cffda5254767e260bae0afec47.png)
 
 &nbsp;
 
-![b20c0b4d6d7ccff77c6a8753b9c4068e.png](../../../../_resources/b20c0b4d6d7ccff77c6a8753b9c4068e.png)
+![b20c0b4d6d7ccff77c6a8753b9c4068e.png](../../../images/b20c0b4d6d7ccff77c6a8753b9c4068e.png)
 
 # \*\*a better way understand OSI protocol stack or TCP/IP protocol stack and its functional layer protocols using wireshark tool
 
-![5e9e9815ef8f3b0deb25b6d77ad56e3b.png](../../../../_resources/5e9e9815ef8f3b0deb25b6d77ad56e3b.png)
+![5e9e9815ef8f3b0deb25b6d77ad56e3b.png](../../../images/5e9e9815ef8f3b0deb25b6d77ad56e3b.png)
 
 ==**Physical Layer:**== Transmits raw bits over the physical medium (Wi-Fi, Ethernet, fiber, etc.). This layer is not directly visible in Wireshark.
 
@@ -238,6 +238,6 @@ This eliminates the need to manually configure every device.
 
 - Converts everything into **bits (0s and 1s)** and transmits them through the physical medium (Ethernet cable or Wi-Fi).
 
-![682367ec0e7e85d0bb0754dc97131e02.png](../../../../_resources/682367ec0e7e85d0bb0754dc97131e02.png)
+![682367ec0e7e85d0bb0754dc97131e02.png](../../../images/682367ec0e7e85d0bb0754dc97131e02.png)
 
 &nbsp;

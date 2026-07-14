@@ -7,11 +7,10 @@ This section contains the notes for the information gathering phase of an assess
 - [Information Gathering Summary](information%20gathering%20summary.md)
 - [Scoping](scoping.md)
 - [Active vs Passive Reconnaissance](active%20vs%20passive%20reconnaissance.md)
-- [User Information and Targeting](user%20information%20is%20critical.md)
 - [Importance of Information Gathering](importance%20of%20information%20gathering.md)
 - [Assessment Labs](assessment%20labs.md)
- - [Passive Information Gathering Index](passive%20information%20gathering/README.md)
- - [Active Information Gathering Index](active%20information%20gathering/README.md)
+- [Passive Information Gathering Index](passive%20information%20gathering/README.md)
+- [Active Information Gathering Index](active%20information%20gathering/README.md)
 
 ## Passive Information Gathering
 
