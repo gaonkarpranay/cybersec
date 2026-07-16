@@ -10,6 +10,7 @@ This folder groups my eJPT study notes by methodology and topic.
 
 - [Information Gathering](Assessment%20Methodologies/information%20gathering/README.md)
 - [Footprinting and Scanning](Assessment%20Methodologies/footprinting%20and%20scanning/README.md)
+- [Enumeration](Assessment%20Methodologies/enumeration/README.md)
 
 ## Suggested Flow
 

@@ -21,6 +21,9 @@ cybersec/
             ├── host discovery/
             ├── Port scanning/
             └── Evasion and scan performance/
+        └── enumeration/
+            ├── NSE/
+            └── service enumeration/
 ```
 
 ## How to Use This Repo
