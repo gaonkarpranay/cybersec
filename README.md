@@ -24,6 +24,7 @@ cybersec/
         └── enumeration/
             ├── NSE/
             └── service enumeration/
+        └── Vulnerability Assessment_analysis_scanning/
 ```
 
 ## How to Use This Repo

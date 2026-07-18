@@ -7,6 +7,7 @@ Notes and methodologies used during assessments. This folder groups topic-specif
 - [Information Gathering](information%20gathering/README.md)
 - [Footprinting and Scanning](footprinting%20and%20scanning/README.md)
 - [Enumeration](enumeration/README.md)
+- [Vulnerability Assessment and Scanning](Vulnerability%20Assessment_analysis_scanning/README.md)
 
 ## Footprinting and Scanning Sections
 
@@ -19,3 +20,7 @@ Notes and methodologies used during assessments. This folder groups topic-specif
 
 - [NSE](enumeration/NSE/README.md)
 - [Service Enumeration](enumeration/service%20enumeration/README.md)
+
+## Vulnerability Assessment and Scanning
+
+- [Module Overview](Vulnerability%20Assessment_analysis_scanning/README.md)
