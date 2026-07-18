@@ -5,6 +5,7 @@ This folder groups my eJPT study notes by methodology and topic.
 ## Current Sections
 
 - [Assessment Methodologies](Assessment%20Methodologies/README.md)
+- [Host and Network Enumeration](host and network enumeration/README.md)
 
 ## Assessment Methodologies
 

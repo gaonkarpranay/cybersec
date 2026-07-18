@@ -7,6 +7,7 @@ This repository contains my study notes for eJPT preparation, organized by topic
 ```text
 cybersec/
 └── eJPT/
+    ├── host and network enumeration/
     └── Assessment Methodologies/
         ├── information gathering/
         │   ├── information gathering summary.md
